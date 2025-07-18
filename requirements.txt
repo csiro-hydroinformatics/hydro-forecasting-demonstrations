@@ -2,7 +2,7 @@ appnope==0.1.4
 asttokens==3.0.0 
 backports-tarfile==1.2.0 
 bashlex==0.18 
-bjpmodel==0.2.1 
+bjpmodel
 bracex==2.6 
 certifi==2025.7.14 
 cffi==1.17.1 
