@@ -12,6 +12,7 @@ pytest = ">8.3.5,<9.0.0"
 pytest-github-actions-annotate-failures = "^0.2.0"
 bjpmodel = "^0.2.1"
 ipykernel = "^6.29.5"
+pytest = "^6.2.1"
 
 
 [build-system]
