@@ -4,9 +4,10 @@
 [![CI](https://github.com/hydro-forecasting-demonstrations/actions/workflows/main.yml/badge.svg)](https://github.com/hydro-forecasting-demonstrations/actions/workflows/main.yml)
 
 ## Demonstration Notebooks
-Click the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csiro-hydroinformatics/hydro-forecasting-demonstrations/main) button to run the notebooks online!
+Click the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csiro-hydroinformatics/hydro-forecasting-demonstrations/HEAD?urlpath=%2Fdoc%2Ftree%2F%2Fnotebooks%2Fbjpmodel-demonstration.ipynb) button to run the bjpmodel notebook, or
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csiro-hydroinformatics/hydro-forecasting-demonstrations/HEAD?urlpath=%2Fdoc%2Ftree%2F%2Fnotebooks%2Fnormtransform-demonstration.ipynb) online
 
-These notebooks are demonstrations of the tools built by the [CSIRO Hydro Forecasting](https://research.csiro.au/swbo/water-forecasting-2/) - [Team](https://research.csiro.au/swbo/our-team/water_forecasting/). 
+These notebooks are demonstrations of the tools built by [CSIRO Hydro Forecasting](https://research.csiro.au/swbo/water-forecasting-2/) - [Team](https://research.csiro.au/swbo/our-team/water_forecasting/). 
 
 ## PYPI packages
 The tools can be found on PYPI:
