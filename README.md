@@ -1,7 +1,7 @@
 # Hydro Forecasting Demonstrations
 
 [![codecov](https://codecov.io/gh/hydro-forecasting-demonstrations/branch/main/graph/badge.svg?token=hydroforecastingdemo_token_here)](https://codecov.io/gh/hydro-forecasting-demonstrations)
-[![CI](https://github.com/hydro-forecasting-demonstrations/actions/workflows/main.yml/badge.svg)](https://github.com/hydro-forecasting-demonstrations/actions/workflows/main.yml)
+[![CI](https://github.com/csiro-hydroinformatics/hydro-forecasting-demonstrations/actions/workflows/main.yml/badge.svg)](https://github.com/csiro-hydroinformatics/hydro-forecasting-demonstrations/actions/workflows/main.yml)
 
 ## Demonstration Notebooks
 List of notebooks which will run online, click the links to open the specific jupyter notebook:
