@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "hydroforecastingdemo"}]
 
 [tool.poetry.dependencies]
-python = ">=3.13.0,<3.14"
+python = ">=3.11.0,<3.14"
 pytest = ">8.3.5,<9.0.0"
 pytest-github-actions-annotate-failures = "^0.2.0"
 bjpmodel = "^0.2.1"
