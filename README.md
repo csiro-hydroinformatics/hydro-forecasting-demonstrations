@@ -1,30 +1,30 @@
-# python_projects
+# hydroforecastingdemo
 
-[![codecov](https://codecov.io/gh/fre171csiro/python-projects/branch/main/graph/badge.svg?token=python-projects_token_here)](https://codecov.io/gh/fre171csiro/python-projects)
-[![CI](https://github.com/fre171csiro/python-projects/actions/workflows/main.yml/badge.svg)](https://github.com/fre171csiro/python-projects/actions/workflows/main.yml)
+[![codecov](https://codecov.io/gh/fre171csiro/hydroforecastingdemo/branch/main/graph/badge.svg?token=hydroforecastingdemo_token_here)](https://codecov.io/gh/fre171csiro/hydroforecastingdemo)
+[![CI](https://github.com/fre171csiro/hydroforecastingdemo/actions/workflows/main.yml/badge.svg)](https://github.com/fre171csiro/hydroforecastingdemo/actions/workflows/main.yml)
 
-Awesome python_projects created by fre171csiro
+Awesome hydroforecastingdemo created by fre171csiro
 
 ## Install it from PyPI
 
 ```bash
-pip install python_projects
+pip install hydroforecastingdemo
 ```
 
 ## Usage
 
 ```py
-from python_projects import BaseClass
-from python_projects import base_function
+from hydroforecastingdemo import BaseClass
+from hydroforecastingdemo import base_function
 
 BaseClass().base_method()
 base_function()
 ```
 
 ```bash
-$ python -m python_projects
+$ python -m hydroforecastingdemo
 #or
-$ python_projects
+$ hydroforecastingdemo
 ```
 
 ## Development

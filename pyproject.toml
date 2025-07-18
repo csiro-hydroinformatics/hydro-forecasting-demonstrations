@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "python-projects"
+name = "hydroforecastingdemo"
 version = "0.1.0"
 description = ""
 authors = ["Andrew Freebairn <andrew.freebairn@csiro.au>"]
 readme = "README.md"
-packages = [{include = "python_projects"}]
+packages = [{include = "hydroforecastingdemo"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
